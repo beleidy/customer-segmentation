@@ -2,6 +2,8 @@
 
 In this project we explore the different purchasing data of customers along sevral cetegories of items and see if we can cluster those who are most likely of the same type of customer so we can better serve them accordingly.
 
+### Original ReadMe file below
+
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
 
